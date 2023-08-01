@@ -1,0 +1,38 @@
+.nav-title {
+    color: white;
+    font-family: sans-serif;
+    margin: 0px 5px;
+}
+.nav-links {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    width: 500px;
+    list-style: none;
+}
+.nav {
+    background-color: rgb(51, 51, 51);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px auto;
+}
+a {
+    color: rgb(175, 175, 175);
+    font-family: sans-serif;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+.btn {
+    color: white;
+    font-family: sans-serif;
+    background-color: rgb(23, 162, 184);
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+    margin: 0px 10px 0px 0px;
+    padding: 1px 5px;
+}
+.active {
+    color: whitesmoke;
+}
