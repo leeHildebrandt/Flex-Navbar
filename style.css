@@ -1,6 +1,6 @@
 .nav-title {
     color: white;
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0px 5px;
 }
 .nav-links {
@@ -20,7 +20,7 @@
 }
 a {
     color: rgb(175, 175, 175);
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-decoration: none;
     margin: 0px 10px;
 }
